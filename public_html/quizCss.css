@@ -1,0 +1,13 @@
+#body{
+    background: linear-gradient(30deg,#000000,#9999ff);
+    color: white;
+}
+
+#btn{
+    color: darkred;
+    font-size: 14;
+    font-weight: bolder;
+    width: 65px;
+    height: 30px;
+    background-color: sandybrown;
+}
